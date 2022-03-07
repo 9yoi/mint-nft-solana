@@ -1,0 +1,36 @@
+{
+  "name": "Raccoons",
+  "symbol": "RACCOONS",
+  "description": "An adorable raccoon",
+  "seller_fee_basis_points": 888,
+  "image": "https://ipfs.io/ipfs/QmVXXpFmqQPzDdrQmoQyvm4838yBxkZkrCvwBGGX9Bqd8q",
+  "attributes": [
+    {
+      "trait_type": "soul",
+      "value": "Warrior"
+    },
+    {
+      "trait_type": "spirit",
+      "value": "Game on"
+    }
+  ],
+  "collection": {
+    "name": "Team",
+    "family": "Raccoons.dev"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://ipfs.io/ipfs/QmVXXpFmqQPzDdrQmoQyvm4838yBxkZkrCvwBGGX9Bqd8q",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "62ucxc2gd5TBCwzToEEWVV4M5drVK7Fi7aYozniqWtac",
+        "share": 100
+      }
+    ]
+  }
+}

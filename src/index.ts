@@ -41,7 +41,7 @@ const mintNFT = async () => {
   );
 
   // Token Mint address
-  console.log(mint.toBase58());
+  console.log('Mint address:', mint.toBase58());
 
   // Get the token account of fromWallet. Create it if it does not exist.
   const fromAccount = await getOrCreateAssociatedTokenAccount(
